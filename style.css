@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(195, 255, 185);
+}
+
+.yelei {
+    color: rgb(0, 0, 0);
+    font-size: 4em;
+    font-family: "Palatino Linotype";
+}
+
+#midiv {
+    background-color: rgb(113, 218, 120)
+}
+
+.subtitle {
+    color: rgb(239, 255, 239) ;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    background-color: 
+}
+
+.imagen {
+    width: 300px;
+}
+
+#cabesa {
+    align: "center"
+}
+
+.carousel {
+    width: 1100px;
+    margin: 0 auto;
+}
+
